@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -18,7 +19,19 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'montserrat': ['Montserrat', 'sans-serif'],
+				'chunkfive': ['ChunkFive', 'serif'],
+			},
 			colors: {
+				'morha-purple': '#6A0DAD',
+				'morha-pink': '#FFB6C1',
+				'morha-blue': '#ADD8E6',
+				'morha-white': '#FFFFFF',
+				'morha-gray': '#D3D3D3',
+				'morha-black': '#000000',
+				'morha-gold': '#FFD700',
+				'morha-turquoise': '#30D5C8',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
