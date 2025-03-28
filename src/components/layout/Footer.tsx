@@ -37,7 +37,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <Phone size={16} className="mr-2 text-morha-gold" />
-                <a href="tel:3132765998" className="text-sm hover:text-morha-gold transition-colors">3132765998</a>
+                <a href="https://web.whatsapp.com/send/?phone=573132765998" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-morha-gold transition-colors">3132765998</a>
               </li>
               <li className="flex items-center">
                 <MessageSquare size={16} className="mr-2 text-morha-gold" />

@@ -9,7 +9,7 @@ const Contact = () => {
       icon: <Phone className="h-8 w-8 text-morha-purple" />,
       title: 'Teléfono',
       value: '3132765998',
-      link: 'tel:3132765998'
+      link: 'https://web.whatsapp.com/send/?phone=573132765998'
     },
     {
       icon: <Mail className="h-8 w-8 text-morha-purple" />,
