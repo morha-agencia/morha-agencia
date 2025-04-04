@@ -55,7 +55,7 @@ const Team = () => {
             <div className="bg-morha-purple/5 rounded-lg p-6 text-center">
               <div className="w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-morha-purple">
                 <img 
-                  src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" 
+                  src="/hero.jpeg" 
                   alt="Margarita Becerra" 
                   className="w-full h-full object-cover"
                 />

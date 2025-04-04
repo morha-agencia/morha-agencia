@@ -133,10 +133,16 @@ const ServiceDetail = () => {
           <h2 className="text-2xl font-chunkfive text-morha-black mb-8">Marcas que confían en nosotros</h2>
           <div className="flex flex-wrap justify-center gap-8 opacity-70">
             {/* Example brand logos - replace with actual client logos */}
-            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center">Logo</div>
-            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center">Logo</div>
-            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center">Logo</div>
-            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center">Logo</div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/alcaldia-betulia.jpg" alt="Alcaldía de Betulia" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/arca.jpg" alt="Veterinaria Arca de Noe" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/chef.png" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/chilikix.png" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/colegio-lourdes.jpg" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/exito-bqueño.jpg" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/maria-vega.png" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/restaurante-shan-ghai.png" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/servicios-nestor.png" alt="" /></div>
+            <div className="w-32 h-20 bg-morha-gray/30 rounded flex items-center justify-center"><img src="/viejo-valerio.jpg" alt="" /></div>
           </div>
         </div>
       </div>
