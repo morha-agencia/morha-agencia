@@ -47,11 +47,8 @@ const Footer = () => {
                 <a href="https://instagram.com/agencia_morha" target="_blank" rel="noopener noreferrer" className="text-morha-white hover:text-morha-gold transition-colors">
                   <Instagram size={20} />
                 </a>
-                <a href="https://facebook.com/MorhaPart" target="_blank" rel="noopener noreferrer" className="text-morha-white hover:text-morha-gold transition-colors">
+                <a href="https://facebook.com/profile.php?id=61566414160583" target="_blank" rel="noopener noreferrer" className="text-morha-white hover:text-morha-gold transition-colors">
                   <Facebook size={20} />
-                </a>
-                <a href="#" className="text-morha-white hover:text-morha-gold transition-colors">
-                  <Linkedin size={20} />
                 </a>
               </li>
             </ul>

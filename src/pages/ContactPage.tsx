@@ -6,7 +6,7 @@ const ContactPage = () => {
     { label: 'Teléfono', value: '3132765998', link: 'https://web.whatsapp.com/send/?phone=573132765998' },
     { label: 'Correo', value: 'agenciamorha@gmail.com', link: 'mailto:agenciamorha@gmail.com' },
     { label: 'Instagram', value: '@agencia_morha', link: 'https://instagram.com/agencia_morha' },
-    { label: 'Facebook', value: 'Morha Part', link: 'https://facebook.com/MorhaPart' }
+    { label: 'Facebook', value: 'Morha Part', link: 'https://www.facebook.com/profile.php?id=61566414160583' }
   ];
 
   return (
